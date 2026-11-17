@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "title": "No Three in Arithmetic Progression up to 50 (CLI demo)",
+  "claims": [
+    {
+      "statement": "The 16 integers in {1, ..., 50} whose base-3 digits (of n - 1) contain no 2 form a progression-free set.",
+      "score": {
+        "numerator": "16",
+        "denominator": "1"
+      },
+      "evidence": [
+        "baseline.md"
+      ]
+    }
+  ],
+  "experiments": []
+}
